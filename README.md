@@ -10,7 +10,7 @@ well-vim
 > Just a Better Vim Config. Keep it Simple.
 
 
-**PS**: 服务器端无插件`k-vim`简化版本, 有需要可以安装(curl直接设置vimrc即可)[vim-for-server](https://github.com/wklken/vim-for-server)
+**PS**: 服务器端无插件简化版本, 有需要可以安装(curl直接设置vimrc即可)[vim-for-server](https://github.com/wklken/vim-for-server)
 
 
 
@@ -36,7 +36,7 @@ molokai主题
 
 1. clone到本地,配置到linux个人目录（如果是从linux_config过来的，不需要clone）
 
-        git clone https://github.com/wklken/k-vim.git
+        git clone https://github.com/Anniywell/well-vim.git
 
 2. 安装依赖包
 
